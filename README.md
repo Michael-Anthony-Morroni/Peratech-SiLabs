@@ -1,8 +1,8 @@
-## Solar Flair
+## SiLabs FW
 
 ### Requirements
-+ macOS 12.6.5
-+ Xcode 14
++ Simplicity Studio IDE
++ Microchip Studio IDE
 
 
 ### Copyright
